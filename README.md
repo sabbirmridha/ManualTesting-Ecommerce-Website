@@ -4,7 +4,7 @@ In this project I have performed Manual testing for a ecommerce website
 
 ## Performed Task 
 - Test Cases Writing
-- Test Cases Excution
+- Test Cases Execution
 - Full Dynamic Test Summary Report Prepare
 
 ## Tested Features
